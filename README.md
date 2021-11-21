@@ -4,8 +4,8 @@ A list of fake "good" anticheats to import into your server to confuse the hell 
 ![N|Solid](https://cdn.discordapp.com/attachments/796230402540306443/911701344744792135/ezgif-2-92ec2225992a.gif)
 
 
-## Contributors // Helpers 
-|Contributors // Helpers | Role of Development |
+## List of fake resources
+|Anticheat Name | Description |
 | ------ | ------ |
 | **ZAC** | *Fake Anticheat Resource* |
 | **xChickenAC** | *Fake Anticheat Resource* |
